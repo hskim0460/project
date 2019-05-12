@@ -6,6 +6,3 @@ app.get(['/', '/index.html'], function (req, res) {
 });
 
 app.listen(80);
-
-
-
